@@ -1,8 +1,10 @@
+//Accessing all the ids from the index.html
 var txtNumber = document.getElementById('txtNumber');
 var baseDDL = document.getElementById('base');
 var convertBtn = document.getElementById('btnConvert');
 var spanEl = document.getElementById('convertedValue');
 
+//initialising a function to be provoken upon clicking the button
 convertBtn.addEventListener('click',function(){
     let num = +txtNumber.value;
     let base = +baseDDL.value;
