@@ -6,7 +6,7 @@ A simple **Number Base Converter** built using HTML, CSS, and JavaScript. This w
 - Simple and user-friendly UI
 - Input validation for incorrect formats
 
-  ## 🛠️ Technologies Used
+## 🛠️ Technologies Used
 - **HTML** – Structure of the application
 - **CSS** – Styling for a clean and responsive UI
 - **JavaScript** – Logic for number conversion
